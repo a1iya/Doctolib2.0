@@ -1,24 +1,23 @@
-# README
+## Doctolib 2.0 - Réserve ton docteur
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+#### Pour exécuter l'application, suis les instructions suivantes :
 
-Things you may want to cover:
+$ git clone
 
-* Ruby version
+$ cd nom_du_dossier
 
-* System dependencies
+$ bundle install
 
-* Configuration
+$ rails db:migrate
 
-* Database creation
+$ rails db:seed
 
-* Database initialization
+$ rails console
 
-* How to run the test suite
+tp City.all.sample.doctors, tp Patient.all.sample.appointments, etc.
 
-* Services (job queues, cache servers, search engines, etc.)
+#### Lien vers les autres projets du jeudi :
 
-* Deployment instructions
+[Gossip-project](https://github.com/a1iya/Gossip-project-rails)
 
-* ...
+[Dogbnb](https://github.com/a1iya/Dogbnb-rails)
