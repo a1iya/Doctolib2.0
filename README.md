@@ -16,7 +16,7 @@ $ rails console
 
 tp City.all.sample.doctors, tp Patient.all.sample.appointments, etc.
 
-#### Lien vers les autres projets du jeudi :
+#### Liens vers les autres projets du jeudi :
 
 [Gossip-project](https://github.com/a1iya/Gossip-project-rails)
 
